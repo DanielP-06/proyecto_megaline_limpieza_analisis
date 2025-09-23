@@ -39,7 +39,7 @@ Los resultados de este proyecto son directamente aplicables para el departamento
 
 1.  Clona este repositorio.
 2.  Asegúrate de tener las librerías de Python mencionadas instaladas (`pip install pandas numpy matplotlib seaborn scipy`).
-3.  Coloca los archivos CSV (`megaline_users.csv`, `megaline_calls.csv`, `megaline_messages.csv`, `megaline_internet.csv`, `megaline_plans.csv`) en la ubicación especificada en el código o actualiza las rutas de archivo.
+3.  Coloca los archivos CSV (`megaline_users.csv`, `megaline_calls.csv`, `megaline_messages.csv`, `megaline_internet.csv`, `megaline_plans.csv`) en la ubicación especificada en el código o actualiza las rutas de archivo dependiendo de donde los guardes.
 4.  Ejecuta el notebook en un entorno Python (como Jupyter Notebook o Google Colab).
 
 ## Autor
