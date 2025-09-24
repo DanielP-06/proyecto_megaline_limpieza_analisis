@@ -4,7 +4,25 @@
 
 Este proyecto tiene como objetivo analizar el comportamiento de los usuarios de Megaline que utilizan las tarifas de prepago Surf y Ultimate para determinar cuál de las dos genera mayores ingresos. El análisis se basa en datos de 500 clientes, incluyendo su información demográfica, plan de tarifa, y su consumo de llamadas, mensajes e internet durante el año 2018. Los hallazgos de este análisis buscan proporcionar información valiosa al departamento comercial de Megaline para optimizar su presupuesto de publicidad.
 
-## Metodología
+## El roblema
+
+Identificar cuál de las tarifas prepago (Surf vs Ultimate) es más rentable para Megaline y si existen diferencias regionales (especialmente NY-NJ) que justifiquen estrategias de marketing diferenciadas.
+
+Datos
+
+Conjunto de datos compuesto por:
+
+megaline_users.csv (info demográfica)
+
+megaline_calls.csv (consumo de llamadas)
+
+megaline_messages.csv (SMS/MMS)
+
+megaline_internet.csv (datos móviles)
+
+megaline_plans.csv (características de tarifas)
+
+## Metodo
 
 La metodología seguida en este proyecto incluye los siguientes pasos clave:
 
@@ -16,8 +34,8 @@ La metodología seguida en este proyecto incluye los siguientes pasos clave:
 6.  **Prueba de Hipótesis Estadísticas:** Realización de pruebas t de Student para comparar los ingresos promedio entre las tarifas y entre la región NY-NJ y otras regiones.
 7.  **Conclusión General:** Resumen de los hallazgos principales y su utilidad práctica para el negocio.
 
-## Resultados Clave
-
+## KPIs
+## Resultados / KPIs 
 *   El plan **Ultimate** genera un ingreso promedio por usuario más alto y más estable que el plan Surf.
 *   El comportamiento de los usuarios difiere principalmente en el uso de **mensajes**, donde los usuarios de Ultimate envían significativamente más mensajes. El consumo de llamadas e internet es similar entre planes.
 *   Existe una diferencia estadísticamente significativa en el ingreso promedio de los usuarios en la región **NY-NJ** en comparación con otras regiones.
