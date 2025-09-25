@@ -1,5 +1,3 @@
-# Análisis de Rentabilidad de Tarifas de Megaline: Surf vs Ultimate
-
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar el comportamiento de los usuarios de Megaline que utilizan las tarifas de prepago Surf y Ultimate para determinar cuál de las dos genera mayores ingresos. El análisis se basa en datos de 500 clientes, incluyendo su información demográfica, plan de tarifa, y su consumo de llamadas, mensajes e internet durante el año 2018. Los hallazgos de este análisis buscan proporcionar información valiosa al departamento comercial de Megaline para optimizar su presupuesto de publicidad.
